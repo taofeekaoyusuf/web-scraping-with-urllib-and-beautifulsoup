@@ -1,7 +1,7 @@
 # WEB SCRAPING WITH URLLIB AND BEAUTIFULSOUP
 
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhats-difference-between-web-scraping-and-data-mining&psig=AOvVaw1SvKqnH3c-D8ijFxFytxxu&ust=1646906068350000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD_05jiuPYCFQAAAAAdAAAAABAD)
+![alt text](https://qph.fs.quoracdn.net/main-qimg-a762c794af0ef4e52f20f3c0ff22d42a-lq)
 
 This mini-project showcase how the power of `urllib` and `beautifulsoup` libraries can be earness to mine data on the web.
 
