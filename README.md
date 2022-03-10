@@ -1,7 +1,7 @@
 # WEB SCRAPING WITH URLLIB AND BEAUTIFULSOUP
 
 
-![alt text](https://qph.fs.quoracdn.net/main-qimg-a762c794af0ef4e52f20f3c0ff22d42a-lq)
+![Web Scraping at its best](https://github.com/taofeekaoyusuf/web-scraping-with-urllib-and-beautifulsoup/blob/main/ws-n-dm.jpeg)
 
 This mini-project showcase how the power of `urllib` and `beautifulsoup` libraries can be earness to mine data on the web.
 
